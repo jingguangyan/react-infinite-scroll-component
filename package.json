@@ -1,5 +1,5 @@
 {
-  "name": "react-infinite-scroll-component",
+  "name": "@jingguangyan/react-infinite-scroll-component",
   "version": "6.2.0",
   "description": "An Infinite Scroll component in react.",
   "source": "src/index.tsx",
@@ -22,22 +22,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankeetmaini/react-infinite-scroll-component.git"
+    "url": "git+https://github.com/jingguangyan/react-infinite-scroll-component.git"
   },
   "keywords": [
     "react",
     "infinite-scroll",
     "infinite",
     "scroll",
+    "inverse-scroll",
     "component",
     "react-component"
   ],
   "author": "Ankeet Maini <ankeet.maini@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ankeetmaini/react-infinite-scroll-component/issues"
+    "url": "https://github.com/jingguangyan/react-infinite-scroll-component/issues"
   },
-  "homepage": "https://github.com/ankeetmaini/react-infinite-scroll-component#readme",
+  "homepage": "https://github.com/jingguangyan/react-infinite-scroll-component#readme",
   "peerDependencies": {
     "react": ">=16.0.0"
   },
