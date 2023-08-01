@@ -12,16 +12,16 @@ added. An infinite-scroll that actually works and super-simple to integrate!
 ## Install
 
 ```bash
-  npm install --save react-infinite-scroll-component
+  npm install --save @jingguangyan/react-infinite-scroll-component
 
   or
 
-  yarn add react-infinite-scroll-component
+  yarn add @jingguangyan/react-infinite-scroll-component
 
   // in code ES6
-  import InfiniteScroll from 'react-infinite-scroll-component';
+  import InfiniteScroll from '@jingguangyan/react-infinite-scroll-component';
   // or commonjs
-  var InfiniteScroll = require('react-infinite-scroll-component');
+  var InfiniteScroll = require('@jingguangyan/react-infinite-scroll-component');
 ```
 
 ## Using

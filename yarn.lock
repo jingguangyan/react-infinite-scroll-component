@@ -1229,7 +1229,7 @@
 
 "@jingguangyan/react-infinite-scroll-component@file:":
   "resolved" "file:"
-  "version" "6.2.0"
+  "version" "6.2.1"
   dependencies:
     "@jingguangyan/react-infinite-scroll-component" "file:"
     "throttle-debounce" "^2.1.0"
